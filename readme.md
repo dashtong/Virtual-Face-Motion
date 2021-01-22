@@ -12,8 +12,7 @@ pip install tkinter
 
 ## Preperation
 Download the shape_predictor_68_face_landmarks.dat <br/>
-- https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2 <br/>
-<br/>
+https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2 <br/>
 And put it into the folder
 
 ## Use
@@ -25,7 +24,7 @@ And put it into the folder
 <br/>
 <br/>
 <br/>
- 6. Since Zoom supports using video as virtual background, so ...^_^
+6. Since Zoom supports using video as virtual background, so ... ^_^
 
 ## Input
 ![](https://i.imgur.com/xsJWmfj.jpg)
