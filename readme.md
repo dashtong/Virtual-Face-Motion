@@ -12,7 +12,7 @@ pip install tkinter
 
 ## Preperation
 Download the shape_predictor_68_face_landmarks.dat <br/>
-`https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2` <br/>
+- https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2 <br/>
 And put it into the folder
 
 ## Use
